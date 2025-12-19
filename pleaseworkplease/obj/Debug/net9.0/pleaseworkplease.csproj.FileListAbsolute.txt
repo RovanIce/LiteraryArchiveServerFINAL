@@ -1,0 +1,17 @@
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\bin\Debug\net9.0\appsettings.json
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\bin\Debug\net9.0\pleaseworkplease.deps.json
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\bin\Debug\net9.0\pleaseworkplease.runtimeconfig.json
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\bin\Debug\net9.0\pleaseworkplease.dll
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\bin\Debug\net9.0\pleaseworkplease.pdb
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.AssemblyInfo.cs
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.sourcelink.json
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.dll
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\refint\pleaseworkplease.dll
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.pdb
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\pleaseworkplease.genruntimeconfig.cache
+C:\Users\micha\source\repos\LiteraryArchiveServer\pleaseworkplease\obj\Debug\net9.0\ref\pleaseworkplease.dll
