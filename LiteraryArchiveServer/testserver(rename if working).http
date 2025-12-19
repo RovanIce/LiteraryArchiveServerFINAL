@@ -1,0 +1,6 @@
+@LiteraryArchiveServer__HostAddress = http://localhost:5178
+
+GET {{LiteraryArchiveServer__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
